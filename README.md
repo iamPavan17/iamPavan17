@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Pavan S
 
 
-A passionate and dedicated front-end engineer from India with 3 years of experience designing and developing interactive user interfaces for websites and web applications.
+A passionate and dedicated front-end engineer from India with 3 years of experience, designing and developing interactive user interfaces for websites and web applications.
 
 ## Skills
 
